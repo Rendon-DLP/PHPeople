@@ -1,1 +1,1 @@
-# PHPeople
+created using XAMPP
