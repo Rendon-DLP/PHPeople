@@ -2,7 +2,6 @@
 <style>
 <?php include 'styles/styles.css'; ?>
 </style>
-
 <!DOCTYPE html>
 <html>
     <head>
